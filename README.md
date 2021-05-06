@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Pokedex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple frontend that consumes the [Pokemon API](https://pokeapi.co/).
+
+## Technologies Used
+
+- React
+- Typescript
+- Styled Components
+- Axios
+- React Router Dom
+
+## Live Version
+
+You can visit a live website with this code [here]().
+
 
 ## Available Scripts
 
